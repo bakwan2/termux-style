@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Compyle by Sanz
+# Youtube : SANZ SOEKAMTI
+# Github  : https://github.com/B4N954N2-ID
+# Cie Mau rikod ya >_< Semoga lu jomblo selamanya awokawok :v
+Sanz=$(mktemp)
+base64 -d  >${Sanz}<<R2S
+IyBBdXRob3IgYnkgU2FuegojIFlvdXR1YmUgOiBTQU5aIFNPRUtBTVRJCiMgR2l0aHViICA6IGh0
+dHBzOi8vZ2l0aHViLmNvbS9CNE45NTROMi1JRAojIENpZSBNYXUgcmlrb2QgeWEgPl88IFNlbW9n
+YSBsdSBqb21ibG8gc2VsYW1hbnlhIGF3b2thd29rIDp2CnRnbD1gZGF0ZSArJWRgO2Jsbj1gZGF0
+ZSArJW1gO3Robj1gZGF0ZSArJVlgO209IlwwMzNbMTszMW0iO3A9IlwwMzNbMG0iO3B1PSJcMDMz
+WzE7MzdtIjtwcmludGYgJG0iWyAke3B1fSR7dGdsfSR7bX0gLSAke3B1fSR7YmxufSR7bX0gLSAk
+e3B1fSR7dGhufSR7bX0gXSAgWyR7cHV9XDAzM1s3bSAgIE1lbXBlcmNhbnRpayBUYW1waWxhbiBU
+ZXJtdXggICAke3B9JHttfV0iCg==
+R2S
+source ${Sanz}
+rm -rf ${Sanz}
